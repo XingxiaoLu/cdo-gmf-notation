@@ -1,0 +1,1 @@
+This project provides a compatibility layer between GMF Notation and CDO, more precisely it provides a GMF Notation metamodel implementation based on CDO.
